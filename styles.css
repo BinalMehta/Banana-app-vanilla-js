@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300&display=swap");
+
+
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Kalam', cursive;
+    color: #333333;
+}
+
+h1 {
+    background-color: #F2C94C;
+    margin: 0;
+    padding: 16px;
+    text-align: center;
+}
+
+
+textarea {
+    display: inline-block;
+    width: 80%;
+    min-height: 15vh;
+    margin-top: 2rem;
+    font-size: large;
+    font-family: inherit;
+    
+}
+
+#output {
+    border: 1px solid black;
+    overflow: scroll;
+    display: inline-block;
+    max-height: 20vh;
+    min-height: 10vh;
+    width: 80%;
+    margin: 1rem;
+    padding: 1rem;
+    font-size: large; 
+}
+  
+#btn-translate {
+    display: inline-block;
+    background-color: #F2C94C;
+    width: 30%;
+    border: none;
+    margin: 1rem 0rem;
+    padding: 1rem 2rem;
+    font-family: inherit;
+    font-size: large;
+  
+}
+
+footer {
+    color: #333333;
+    position: fixed;
+    bottom: 6;
+    width: 100%;
+    background-color: #F2C94C;
+    text-align: center;
+    padding: 1rem;
+    
+    
+}
+
+footer p {
+    max-width: 900px;
+    margin: auto;
+    background-color: #F2C94C; 
+
+    
+}
+
+h3 {
+   padding: 0rem;
+   font-weight: lighter;
+   font-size: x-large;
+}
+
+.about {
+    width: 100%;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    background-color: #F2C94C;
+}
+
