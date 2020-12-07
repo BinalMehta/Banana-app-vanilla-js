@@ -31,7 +31,7 @@ textarea {
 
 #output {
     border: 1px solid black;
-    overflow: scroll;
+    overflow: auto;
     display: inline-block;
     max-height: 20vh;
     min-height: 10vh;
